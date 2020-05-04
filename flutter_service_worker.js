@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/images/web.png": "e7b47a790a4227753eaeaac0bbb402ab",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "eb0c5b6f27cd246b0a3f2b076ec93ced",
+"assets/LICENSE": "7f1df1ee47854388e684afc0845ea820",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
